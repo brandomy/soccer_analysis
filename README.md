@@ -11,4 +11,6 @@ Credits: Kaggle: Europe Big 5 League Last 5 Season Match Scores
 [Check it out online](https://www.premierleague.com/)
 
 ## Underwater Adventure
+This is a brief test of adding a lovely image from an external site, in this case: [Unsplash](https://unsplash.com/).
+
 ![Swimming underwater](https://plus.unsplash.com/premium_photo-1683910767532-3a25b821f7ae?q=80&w=2908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
