@@ -1,16 +1,51 @@
-# About the Project
+# European Soccer Analysis Project
 
-This project will look at goal information from the top-level men's soccer teams in the UK, Italy and Spain. These are Premier League, Serie A, and La Liga, respectively. We will look at scoring trends of the last five years and compare these between the three leagues.
+## About the Project
+This project analyzes goal scoring patterns across Europe's top men's soccer leagues over the past five years:
+- Premier League (England)
+- Serie A (Italy)
+- La Liga (Spain)
 
-Credits: Kaggle: Europe Big 5 League Last 5 Season Match Scores
+The analysis compares scoring trends, identifies patterns, and highlights differences between these prestigious competitions.
 
+## Author
+**Randal Eastman**
+
+## Data Source
+Data courtesy of Kaggle: "Europe Big 5 League Last 5 Season Match Scores"
+
+## Leagues Overview
+
+### Premier League (England)
 ![premier league logo](https://github.com/user-attachments/assets/5de738a3-2fdf-4820-bff4-16a30c242e64)
 
-## Premier League
+The Premier League is England's top-tier competition, known for its high tempo, physical play, and worldwide popularity. Established in 1992, it features 20 clubs competing in a round-robin format.
 
-[Check it out online](https://www.premierleague.com/)
+[Official Premier League Website](https://www.premierleague.com/)
 
-## Underwater Adventure
-This is a brief test of adding a lovely image from an external site, in this case: [Unsplash](https://unsplash.com/).
+### Serie A (Italy)
+Serie A is Italy's premier football division, renowned for its tactical sophistication and defensive strength. Founded in 1898, this historic league has produced numerous legendary players and teams.
 
-![Swimming underwater](https://plus.unsplash.com/premium_photo-1683910767532-3a25b821f7ae?q=80&w=2908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+### La Liga (Spain)
+Spain's top professional football division is characterized by technical excellence and possession-based football. Home to some of the world's most successful clubs, La Liga emphasizes skill and creative attacking play.
+
+## Project Structure
+- `/EDA` - Exploratory Data Analysis notebooks and results
+- `/Images` - Project images, logos, and visualization outputs
+
+## Methodology
+The analysis focuses on:
+1. Goal distribution patterns
+2. Home vs away scoring trends
+3. Seasonal variations
+4. Team-specific analysis
+5. Cross-league comparisons
+
+## Future Expansions
+- Include Bundesliga (Germany) and Ligue 1 (France)
+- Analyze player performance metrics
+- Incorporate economic factors (transfer spending vs. performance)
+
+---
+
+*Note: This is a learning project for data analysis and Git workflow practice.*
